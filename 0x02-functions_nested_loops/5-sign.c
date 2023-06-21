@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
  * print_sign - print + if n is greater than zero
- * 		0 if n is zero and - if n is less
- * 		than zero
+ * 0 if n is zero and - if n is less
+ * than zero
  * @n: the int to check
  * Return: 1 if +, 0 if zero, -1 if -
  */
